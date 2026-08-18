@@ -13,5 +13,5 @@ e:I[7150,[],""]
 a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:null
 f:I[622,[],"IconMark"]
-8:{"metadata":[["$","title","0",{"children":"Final 요구사항 검수 | Dacom Crossing"}],["$","meta","1",{"name":"description","content":"데이콤크로싱 홈페이지 Final 시안의 IA, 자료 상태, 요구사항별 반영 위치를 대조합니다."}],["$","link","2",{"rel":"icon","href":"/favicon.svg"}],["$","$Lf","3",{}]],"error":null,"digest":"$undefined"}
+8:{"metadata":[["$","title","0",{"children":"Final 요구사항 검수 | Dacom Crossing"}],["$","meta","1",{"name":"description","content":"데이콤크로싱 홈페이지 Final 시안의 IA, 자료 상태, 요구사항별 반영 위치를 대조합니다."}],["$","link","2",{"rel":"icon","href":"/dacomcrossing-final/favicon.svg"}],["$","$Lf","3",{}]],"error":null,"digest":"$undefined"}
 d:"$8:metadata"

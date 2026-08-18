@@ -16,5 +16,5 @@ f:I[356,["619","static/chunks/619-ba102abea3e3d0e4.js","272","static/chunks/app/
 a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:null
 12:I[622,[],"IconMark"]
-8:{"metadata":[["$","link","0",{"rel":"icon","href":"/favicon.svg"}],["$","$L12","1",{}]],"error":null,"digest":"$undefined"}
+8:{"metadata":[["$","link","0",{"rel":"icon","href":"/dacomcrossing-final/favicon.svg"}],["$","$L12","1",{}]],"error":null,"digest":"$undefined"}
 d:"$8:metadata"
